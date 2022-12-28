@@ -1,2 +1,2 @@
 # HorrorGame
-Proje ödevi için oyun yapımı
+Proje ödevi için korku oyunu.
